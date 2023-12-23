@@ -67,7 +67,7 @@
                 </div>
                 <div>
                     <tr>
-                        <td><label>Jurusan</label></td>
+                        <td><label>Program Studi</label></td>
                         <td><input type="text" name="program_studi" value="<?php echo htmlspecialchars($prodi);?>" required/></td>
                     </tr>
                 </div>
