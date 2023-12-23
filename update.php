@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Iceberg&family=Metal+Mania&family=Open+Sans:wght@500&family=Poppins:wght@400;500;600&family=Roboto+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-    <title>Form Pendaftaran Anggota</title>
+    <title>Pembaruan Data Mahasiswa</title>
 </head>
 <body>
 <div class="container">
